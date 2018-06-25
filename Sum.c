@@ -8,4 +8,3 @@ mostafa
 khattab
 Michael
 demerdash
-pos
